@@ -28,6 +28,8 @@ The Netflix UI Flutter App is a movie and TV show browsing application that offe
 ![Screenshot 2](https://res.cloudinary.com/dkqcwqlu0/image/upload/v1692550109/WhatsApp_Image_2023-08-20_at_10.14.19_PM_svfpr4.jpg)
 ### Search Screen
 ![Screenshot 2](https://res.cloudinary.com/dkqcwqlu0/image/upload/v1692550109/WhatsApp_Image_2023-08-20_at_10.14.19_PM_1_pxdofa.jpg)
+
+![Screenshot 2](https://res.cloudinary.com/dkqcwqlu0/image/upload/v1692550992/WhatsApp_Image_2023-08-20_at_2.26.57_PM_dfiuo2.jpg)
 ### Downloads Screen
 ![Screenshot 2](https://res.cloudinary.com/dkqcwqlu0/image/upload/v1692549476/Screenshot_20230820_141624_com.example.netflix_vzlfs6.jpg)
 
